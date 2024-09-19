@@ -1,0 +1,35 @@
+/*
+.product-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  width: 200px;
+  text-align: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+}
+
+.product-card button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.product-card button:hover {
+  background-color: #45a049;
+} */
+.App {
+  text-align: center;
+}

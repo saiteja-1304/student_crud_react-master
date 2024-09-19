@@ -1,0 +1,31 @@
+{
+  "students": [
+    {
+      "id": "7322",
+      "rollNumber": "1",
+      "name": "Jaashwitha",
+      "email": "jaashwi@gmail.com",
+      "phoneNumber": "98765432108",
+      "checkinTime": "3:38:59 PM",
+      "checkoutTime": "3:39:01 PM"
+    },
+    {
+      "id": "4a7a",
+      "rollNumber": "2",
+      "name": "simha",
+      "email": "simha@gmail.com",
+      "phoneNumber": "97458273842347",
+      "checkinTime": "3:58:30 PM",
+      "checkoutTime": "3:58:30 PM"
+    },
+    {
+      "id": "ef61",
+      "rollNumber": "3",
+      "name": "pavani",
+      "email": "pavani@gmail.com",
+      "phoneNumber": "3455676979456",
+      "checkinTime": "4:03:08 PM",
+      "checkoutTime": "4:03:09 PM"
+    }
+  ]
+}
